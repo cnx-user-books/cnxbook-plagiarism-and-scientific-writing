@@ -1,0 +1,105 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Recognizing and Avoiding Plagiarism</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>3817577d-09e1-416c-9dc8-822319cebd5a</md:uuid>
+</metadata>
+  <content>
+    
+    <section id="id-460621741786">
+      <title>What is plagiarism?</title>
+      <para id="id5027050">Plagiarism is the use of someone else’s ideas, results, equipment design, visuals, wording, or even sentence structure as if they were your own. </para>
+      <para id="id7128487">Plagiarism can be intentional:</para>
+      <list list-type="bulleted" id="id7072062">
+        <item>You use someone’s ideas or results without citing the source; </item>
+        <item>You copy something word for word without using quotation marks, even though you cite the source; or</item>
+        <item>You use all or part of a visual without crediting the source.</item>
+        </list>
+ <para id="newline">Or it can be accidental:</para>
+        <list list-type="bulleted" id="newlist2">
+        <item>You don’t realize what is considered plagiarism in the United States; </item>
+        <item>You can’t think of a better way to say it and so copy sentences, phrases, or even sentence structure from the original without using quotation marks; </item>
+        <item>When you took notes, you didn’t put exact wording in quotation marks and now you plagiarize without realizing it.</item>
+      </list>
+    </section>
+    <section id="id-718327186146">
+      <title>Why is it important to avoid plagiarism?</title>
+      <para id="id6732364">In the United States, plagiarism is considered academic misconduct, and you are expected to avoid plagiarism, either intentional or accidental. </para>
+      <para id="id6307718">Plagiarized work can result in a failing course grade, expulsion, rejection of a paper submitted for publication, denial of an advanced degree, or loss of job. It is increasingly serious now that the Internet has made plagiarism easier than ever before.</para>
+    </section>
+    <section id="id-295779064914">
+      <title>How can you avoid plagiarizing?</title>
+      <para id="id7499385">For each source you read, use a Template for Taking Notes such as the one on the Cain Project web site: <link url="http://www.owlnet.rice.edu/~cainproj">http://www.owlnet.rice.edu/~cainproj</link>. As you enter the information, proofread for completeness and accuracy. As you take notes, put quotation marks around any wording that you copy directly from the source so that later you can put it into your own words and won’t accidentally plagiarize.</para>
+      <para id="id6310561">If you copy something word for word, put quotation marks around it and cite it: (Jones 2005). If you paraphrase by putting ideas into your own words, cite the source of the ideas: (Jones 2005). If you copy a Figure or Table, cite it at the end of the caption and inside the period: (Jones 2005). If you adapt a Figure or Table or use only part of it, cite it at the end of the caption: (Adapted from Jones 2005). Put the complete bibliographic reference for all citations in the Bibliography (or Works Cited).</para>
+      <para id="id4426377"><emphasis>Practice paraphrasing (putting someone else’s ideas into your own words) because it’s often difficult to do.</emphasis> Avoid the temptation of paraphrasing too many details. Focus on the main idea or evidence that you need to cite. Once you have determined what you need to paraphrase, reread the source and then cover it up. Write the main idea from memory and then check to verify that you haven’t used exact wording or sentence structure. Simply changing the verb tense or substituting one adverb for another, but leaving the sentence structure essentially the same, is still considered to be plagiarism.</para>
+      <para id="id8949294">If you simply cannot figure out a different way of saying it, use quotation marks to indicate that you are quoting exactly. [Because few writers in science or engineering use quotations, generally preferring paraphrases, paraphrasing is a skill you must learn in those fields. In contrast, writers in the humanities often use quotations to illustrate key points, but they also paraphrase when exact wording is not essential.]</para>
+      <para id="id8066674">Always cite your source, whether for text, visuals, or ideas. If you cannot remember the source, you can’t use the information. Put citations in as you write your first draft so that you don’t have to go back later when identifying the source may be difficult.</para>
+      <para id="id7996479">In your text, make clear what the source is. Generally, it is a good idea to identify an author by name rather than by referring to a number in your bibliography, though this practice varies somewhat by field or by journal. In any case, try not use a reference number as a part of speech. Do not, for example, write that “[10] gives more compelling evidence than [98] provides.” Think of how time consuming it is for a reader to have to keep flipping to the bibliography to see who has said what. It would be preferable to write “Johnson (10) gives more compelling evidence than Dickerson (98) provides.” And then move to the evidence, clearly identifying the references as you discuss the evidence each author gives. [Whether you use square brackets or parentheses depends on the field or journal.]</para>
+    </section>
+    <section id="id-420246539082">
+      <title>Examples of citation within the text</title>
+      <para id="element-669"><emphasis>CONFUSING:</emphasis> [10] and [15] were the next to apply this algorithm to new genetic sequences.</para>
+      <para id="id5531229"><emphasis>CONFUSING:</emphasis> The first big improvement came in the work of [10].</para>
+      <para id="id6806826"><emphasis>CLEAR:</emphasis> Koninsky et al. and Rebert et al. were the next to apply this algorithm to new genetic sequences (10, 15).</para>
+      <para id="id7035625"><emphasis>CLEAR:</emphasis> Koninsky et al. (10) and Rebert et al. (15) were the next to apply this algorithm to new genetic sequences.</para>
+      <para id="id7570121"><emphasis>CLEAR:</emphasis> Smith and Wesson (2001) were the next to apply this algorithm to new genetic sequences.</para>
+      <para id="id8076511"><emphasis>CLEAR:</emphasis> Research teams then began to apply this algorithm to new genetic sequences (Smith and Wesson 2001).</para>
+      <para id="id5434328">CLEAR: Research teams then began to apply this algorithm to new genetic sequences. (See, for example, Smith and Wesson 2001 and Rebert et al. 2004.)</para>
+      <para id="id5965993"><emphasis>RIGHT, but LESS CLEAR:</emphasis> Research teams then began to apply this algorithm to new genetic sequences. (See, e.g., 10, 15, and 22.) </para>
+      <para id="id7419928">For suggestions on how to avoid plagiarism and cite information, see <cite><cite-title>Diana Hacker’s The Bedford Handbook, </cite-title></cite>7th ed. (2006), pp. 572-579; 698-790. She includes extensive examples of APA and Chicago style guides. I suggest, too, that you check the Web site for the book: <link url="http://www.dianahacker.com/bedhandbook">www.dianahacker.com/bedhandbook</link> for further information. Or go to other Web Site sources: Check Google for the <cite><cite-title>APA Citation Style Guide or the Chicago Manual of Style Citation Guide.</cite-title></cite></para>
+    </section>
+    <section id="id-784407019821">
+      <title>Examples of Plagiarism and Paraphrasing</title>
+      <para id="id7030619">The original text:</para>
+      <para id="id7550902"><quote display="block" id="idp17536">“The new Internet economy has brought about the development of competing search engine companies, each with its own proprietary software. Sites are collected and updated differently. After a search is conducted, one search engine provides exactly what’s required within the first ten hits whereas another is useless. Frequently there is tremendous overlap, although no two search engines are exactly alike. Since the outcome varies from search engine to search engine, researchers often find it necessary to use several engines for the same question for either the best or more comprehensive results.”</quote>
+         Burnett, Rebecca E. (2001). <cite><cite-title>Technical Communication (5th ed.).</cite-title></cite> Fort Worth: Harcourt, Inc., p. 199.</para>
+      
+      
+      <para id="id6735105">Read the following examples and decide if each is an example of acceptable paraphrasing or of plagiarism.</para>
+      <list list-type="enumerated" id="id9284236">
+        <item>Burnett points out that competing search engine companies have proprietary software that collects and updates sites differently. As a result, one will provide what you want within the first ten hits, while another is useless. That means that researchers will frequently need to use several engines to obtain the best or more comprehensive answers (<cite><cite-title>2001</cite-title></cite>).</item>
+        <item>Multiple search engines on the Internet have arisen, each with unique strengths and weaknesses. These differences derive from each engine’s respective method of analyzing and classifying information on the Internet. As a direct result of these differences, more exhaustive search results are often obtained through the use of several engines (<cite><cite-title>Burnett 2001</cite-title></cite>).</item>
+        <item>When researching a specific subject on the Internet, the use of multiple search engines is essential for a thorough search because each search engine utilizes different algorithms.</item>
+        <item>Rebecca Burnett suggests that we use several search engines because sometimes there is tremendous overlap in results and the outcome differs from search engine to search engine (<cite><cite-title>2001</cite-title></cite>).</item>
+      </list>
+      <section id="id-05041865434">
+        <title>Answers to the above 4 responses, which were all written by students who thought they were paraphrasing. Only one succeeded.</title>
+        <list list-type="enumerated" id="id8945192">
+          <item>Even though the author’s name and date are cited, <emphasis>this is clearly plagiarism</emphasis>. Changing the verb from passive to active (“are collected and updated differently” becomes “collects and updates differently”) is not sufficient change. Substituting “while” for “whereas” in “within the first ten hits …another is useless” again is not sufficient change. Some exact wording is retained; sentence structure is identical. The same objections hold for “to use several engines …. The best or more comprehensive answers.”Some students have tried to argue that the information in the original paragraph is now common knowledge and that, as a result, some use of the exact wording is inevitable. I agree, to a certain extent. I wouldn’t be surprised if “proprietary software” occurred to many writers as a phrase. But example #1 relies far too heavily on simple substitution while retaining sentence structure and whole blocks of words.</item>
+          <item>This is a <emphasis>fine paraphrase</emphasis>. The source is cited and the only duplicate wording occurs in “several engines,” a phrase that I would agree is in common use and therefore is <emphasis>not plagiarism.</emphasis></item>
+          <item>This is an acceptable paraphrase, but the source is not cited. <emphasis>So it is plagiarism!</emphasis></item>
+          <item>Because this is so short, you might be tempted to call is a paraphrase. But “tremendous overlap” is identical, and “the outcome differs from search engine to search engine” changes only “varies” to “differs” and leaves the rest of the wording and structure the same. <emphasis>It is plagiarism.</emphasis></item>
+        </list>
+      </section>
+    </section>
+    <section id="id-269884244614">
+      <title>Frequently asked questions</title>
+      <section id="id-197013171754">
+        <title>When don’t I have to cite the source for information?</title>
+        <para id="id7481727">You don’t have to cite basic knowledge that is found in two or more textbooks. But neither can you use it word for word—you must paraphrase. The exception would be something like a common formula or algorithm; those you would have to use as they appear in the source.</para>
+      </section>
+      <section id="id-973646617583">
+        <title>What if I’m using a common method that’s difficult to reword? Do I have to cite the source?</title>
+        <para id="id6793424">If you use it word for word rather than paraphrasing it, you must cite the source. I know of an Assistant Professor who was denied tenure for taking a method word for word from a published paper.</para>
+      </section>
+      <section id="id-582689998569">
+        <title>How do I cite a source that I read about in a different article, a review article, for example?</title>
+        <para id="id7020401">You will have to cite the source as well as the review article. It’s always best to get a copy of the original article instead of relying on what someone else says about it. Reviewers are not equally good, and even a good reviewer may be focusing on different aspects of the article than you need. The exception would be an article originally published in a language you can’t read or an article that is no longer available. In such cases you must make clear that it is the reviewer’s interpretation that you are citing.</para>
+      </section>
+      <section id="id-288139191631">
+        <title>What do I put in the Bibliography?</title>
+        <para id="id7411610">Everything you cited and nothing that you didn’t cite.</para>
+      </section>
+      <section id="id-74285413081">
+        <title>What should I do if I have an important quotation or a really relevant Figure, but I can’t remember where I found them?</title>
+        <para id="id7402579">See if you can track it down via the Internet. If you can’t find it, you can’t use it.</para>
+      </section>
+      <section id="id-73719757432">
+        <title>Can I cite my own previously published paper or my thesis in a paper I’m submitting for publication?</title>
+        <para id="id9268289">Of course! Keep in mind, though, that every author listed on a published paper has equal copyright ownership and can also cite the paper. Being first author does not give you sole ownership. If you were first author and are now using essentially the entire paper as a chapter in your Master’s or PhD thesis, make clear at the outset of the chapter that it comes largely from your paper (cite it clearly!). Then later in the chapter make it absolutely clear that the chapter is based on your paper. If you use any figures or tables from the published paper, cite those as well. If you are using your thesis as the basis for a paper, make that clear, too. You can cite it as an unpublished thesis or dissertation.</para>
+      </section>
+      <section id="id-618354222517">
+        <title>When do I have to get permission to quote or paraphrase something?</title>
+        <para id="id7487317">In the academic world, this is sometimes a gray area. You usually don’t have to get permission for use if you are writing a paper for a class, a Master’s thesis, or a PhD dissertation, though you must cite the source. And because being cited helps faculty receive tenure or academic awards, most researchers are delighted to be cited in academic journals. Journals may have guidelines, though, so be sure to check. The issue becomes less clear if your paper is chosen to be published in a Proceedings; you may well have to get permission for use there. Check with the editors. And if you publish a book, you will almost certainly need to get permission from the author. Keep a paper copy of your request and a paper copy of the reply. If your paper comes out of funded research, you may need permission to publish what might otherwise be considered the intellectual property of the funding agency.</para>
+      </section><para id="element-912">Author: Janice L. Hewitt, Ph.D., Rice University.  jhewitt@rice.edu</para>
+    </section>
+  </content>
+</document>

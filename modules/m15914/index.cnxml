@@ -1,0 +1,69 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Copyright and Electronic Publishing: Citation</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>0420e16e-9949-475b-9d07-cadec623ce06</md:uuid>
+</metadata>
+  <content>
+    <section id="id-147235561851">
+      <title>Basic Information</title>
+      <list list-type="bulleted" id="id42352631"><item>The copyright protections associated with print also govern the use of audio, video, images, and text on the World Wide Web (WWW). </item>
+        <item>If a document is on the WWW, that DOES NOT mean that it is in the public domain and may be used with no restrictions.</item>
+        <item>A document on the WWW may be copyrighted even if it does not explicitly state that it is copyrighted. Assume that a work is copyrighted unless the site explicitly authorizes use.</item>
+        <item>The same copyright protections exist for the author of a work regardless of whether the work is in a database, CD, discussion board, blog, or web page. </item>
+        <item>Cite a visual used in the text at the end of the Figure or Table caption: (<cite><cite-title>Ozymandias 2005</cite-title></cite>) just as you would cite text in a paragraph. If you use only part of a visual or change it, cite it as (<cite><cite-title>Adapted from Ozymandias 2005</cite-title></cite>).</item>
+        <item>Put all electronic citations in your Bibliography or Works Cited.</item>
+      </list>
+    </section>
+    <section id="id-783076245425">
+      <title>Tips on Using Internet Resources</title>
+      <list list-type="bulleted" id="id42504132">
+        <item>ALWAYS credit the source of your information.</item>
+        <item>Check to see if the author provides information on how his/her work (e.g., video, audio, graphic, icon, web page) may be used. Make sure to follow the guidelines, if they exist.</item>
+        <item>If possible, ask the owner of the copyright for permission to use the work. Because all authors of a single document have equal copyright protection, it is necessary to get permission from only one. The corresponding author of a paper should be your first choice. Keep a paper copy of your request for permission and of the permission received. </item>
+        <item>If you use one of your own published articles in your thesis, you don’t need permission from the other authors, all of whom have equal copyright rights. Clearly state the source, however, and recognize the contributions of the other authors. Most journals will give you permission to use your published paper in your thesis, but check the contract!</item>
+        <item>If you post a chapter from your unfinished thesis or a paper you plan to submit for publication, it is considered published and copyrighted by the act of placing it on the Internet. A journal then cannot accept it for publication because it has already been published. To avoid this copyright disaster, clearly label the posted material as DRAFT and make certain that it differs from what you later submit as finished thesis or paper for publication.</item>
+      </list>
+    </section>
+    <section id="id-701656625537">
+      <title>Guidelines for Citing Electronic Media</title>
+      <para id="id41992002">Check with the journal, your advisor, or your professor to determine what style is required. The APA style guide and the Chicago Manual of Style are commonly used, but some journals have their own style sheets. If you are submitting for publication outside the U.S., style expectations will differ. Preferred style may differ from field to field, as well. If you have kept accurate and complete notes on what you read, you’ll be able to meet any requirements. </para>
+      <section id="id-0484217548419">
+        <title>What to Include (if available)</title>
+        <list list-type="bulleted" id="id42554499">
+          <item>Name of the author, editor, compiler, or translator of the document or graphic. Last name, First initial. (Make this complete enough so that you can do an electronic search for it. Sometimes last name and first initial are not sufficient, as in “Jones, J.”)</item>
+          <item>Date of document’s publication or last update on the Web site. If the publication date is not known, use n.d. to indicate “no date” (n.d.).</item>
+          <item>Title of the document, graphic, or the Web Site. </item>
+          <item>Publication information--the name of the main Web Site where the document or graphic is posted. </item>
+          <item>Page number range or total number of pages or other sections, if they are numbered. </item>
+          <item>Date accessed and location of the material on that date: Month, day, year; URL.</item>
+          <item>Keep a paper copy to prove the date accessed to protect yourself if it disappears from the Web.</item>
+          <item>If you download an article published as print, you may cite it as a printed source. If you cite an article in an electronic journal, you must cite it as a Web source.</item>
+        </list>
+      </section>
+    </section>
+    <section id="id-935396305508">
+      <title>Examples of Citation in a Bibliography or Works Cited</title>
+      <para id="id42040967">Notice that the same basic information is included in the three entries for journal articles, although the styles differ. Choose the style appropriate for what you are writing, and then be consistent within the document. You must follow a style guide.</para>
+      <para id="id42579792">If the Bibliography is set up numerically rather than alphabetically, as would happen when references are numbered consecutively within a text, the entries would be numbered and the authors’ names would all be first name first, as in [1] <cite><cite-title>Christopher Beattie, Mark Embree, etc</cite-title></cite>.</para>
+      <section id="id-401205868191">
+        <title>Print sources</title>
+        <para id="id41747162">Beattie, Christopher, Mark Embree, and D. C. Sorensen. Convergence of Polynomial Restart Krylov Methods for Eigenvalue Computation. <cite><cite-title>SIAM Rev.</cite-title></cite>, 47 (2005), pp. 492-515. [Journal style]</para>
+        <para id="id41747169">Chen, J. Y., A. Kutana, C. P. Collier, and K.P. Giapis. Electrowetting in Carbon Nanotubes. <cite><cite-title>Science 310</cite-title></cite>, 1480-1483 (2005). [Journal style]</para>
+        <para id="id41747178">Hacker, Diana. (2006). <cite><cite-title>The Bedford Handbook</cite-title></cite>. Boston and New York: Bedford/St. Martin’s. [APA style]</para>
+        <para id="id41747185">Nicolo, Micah J., Gerald R. Dickens, Christopher J. Hollis, and James C. Zachos. “Multiple early Eocene hyperthermals: Their sedimentary expression on the New Zealand continental margin and in the deep sea,” Geology 35, no. 8 (2007): 699-702. [Chicago style]</para>
+      </section>
+      <section id="id-0159456784739">
+        <title>Electronic sources</title>
+        <para id="id41747205">Herbst, Roy S., M.D., PhD., and Scott M. Lippman, M.D. Molecular Signatures of Lung Cancer—Toward Personalized Therapy. <cite><cite-title>New England Journal of Medicine 356</cite-title></cite>, no. 1 (January 4, 2007): 76-78. Retrieved April 18, 2007 from <link url="http://www.nejm.org/">http://www.nejm.org</link></para>
+        
+        <para id="id41683326">Ortiz-Barrientos, D. and M. A. F. Noor. Evidence for a One-Allele Assortative Mating Locus.” Science 310, no. 5753 (2005): 1467. Retrieved September 1, 2007 from <link url="http://www.sciencemag.org/">http://www.sciencemag.org</link></para>
+        
+        <para id="id41683341">Provenzo, Eugene F. Jr. “Time Exposure.” Educational Studies 34, no. 2 (2003): 266-67. Retrieved September 11, 2007 from <link url="http://search.epnet.com/">http://search.epnet.com</link></para>
+      </section>
+      <section id="id-572031406755">
+        <title>Additional Resources</title>
+        <para id="id41683366">See <link url="http://www.bitlaw.com/">http://www.bitlaw.com/</link> (Gives information about copyright laws.)</para>
+        <para id="id41683381">Visit <link url="http://www.apastyle.org/elecsource.html#72">http://www.apastyle.org/elecsource.html#72</link> (Extensive examples of how to cite journal articles in APA format, the form used by many fields.)</para>
+      </section>
+    </section>
+  </content>
+</document>
